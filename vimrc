@@ -44,6 +44,10 @@ colorscheme  solarized
 "Tab staff
 set ts=4 sts=4 sw=4 expandtab
 
+" Put swap files in /tmp file
+set backupdir=~/tmp
+set directory=~/tmp
+
 "Show command in bottom right portion of the screen
 set showcmd
 
